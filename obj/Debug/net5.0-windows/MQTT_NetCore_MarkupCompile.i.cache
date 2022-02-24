@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Tonys Co\MiniProgramas\MQTT_NetCore\MQTT_NetCore\obj\Debug\net5.0-windows\
+D:\Tonys Co\MiniProgramas\Git\MQTT_NetCore\MQTT_NetCore\obj\Debug\net5.0-windows\
 MQTT_NetCore
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\Tonys Co\MiniProgramas\MQTT_NetCore\MQTT_NetCore\App.xaml
+D:\Tonys Co\MiniProgramas\Git\MQTT_NetCore\MQTT_NetCore\App.xaml
 11407045341
 
 5-1383995265
 194-886337760
 MainWindow.xaml;
 
-False
+True
 

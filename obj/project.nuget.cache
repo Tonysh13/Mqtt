@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OjwdKMMN6fv76z7LuaPL0sEu1v6kJ83knk7FETrtIv+IiRPqukpRxxEFUvy7+dPuH8tuWQPVL9EZEpcMzi7yAA==",
+  "dgSpecHash": "IiOtR3zEqhQVf0KR/zh3zWfQgu0t4hSJI9VFg3sErgoyI3X3tElGI2ZBeOfLyxWN0N/5uYHDAZ+iOyhkH9zacw==",
   "success": true,
-  "projectFilePath": "D:\\Tonys Co\\MiniProgramas\\MQTT_NetCore\\MQTT_NetCore\\MQTT_NetCore.csproj",
+  "projectFilePath": "D:\\Tonys Co\\MiniProgramas\\Git\\MQTT_NetCore\\MQTT_NetCore\\MQTT_NetCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tony\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
-    "C:\\Users\\Tony\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\Tony\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

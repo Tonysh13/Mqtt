@@ -20,7 +20,7 @@
         <TextBox x:Name="Pto" HorizontalAlignment="Left" Margin="355,90,0,0" Text="1883" TextWrapping="Wrap" VerticalAlignment="Top" Width="61"/>
         <TextBox x:Name="User" HorizontalAlignment="Left" Margin="103,121,0,0" Text="mqadmin" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="Pass" HorizontalAlignment="Left" Margin="277,121,0,0" Text="mqadminpassword" TextWrapping="Wrap" VerticalAlignment="Top" Width="139"/>
-        <Label Content="Cliente MQTT" HorizontalAlignment="Left" Margin="218,10,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Cliente MQTT Net 6" HorizontalAlignment="Left" Margin="218,10,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
         <Label Content="Topic:" HorizontalAlignment="Left" Margin="19,152,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="TopicCon" HorizontalAlignment="Left" Margin="85,156,0,0" Text="telemetria/1/50/lecturas" TextWrapping="Wrap" VerticalAlignment="Top" Width="229"/>
         <Button x:Name="BConectar" Content="Conectar" HorizontalAlignment="Left" Margin="450,59,0,0" VerticalAlignment="Top" Height="26" Width="79" Click="BConectar_Click"/>

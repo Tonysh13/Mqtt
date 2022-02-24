@@ -1,5 +1,5 @@
 ﻿MQTT_NetCore
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\Tonys Co\MiniProgramas\Git\MQTT_NetCore\MQTT_NetCore\App.xaml
 11407045341
 
-5-1296851512
+3-1233169557
 195-1384517059
 MainWindow.xaml;
 
-True
+False
 
